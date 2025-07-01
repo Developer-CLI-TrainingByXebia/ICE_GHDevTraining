@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: July 10 - July 11, 2025
+- Facilitator: @Randy Pagels
 
 ## Class Resources
 
