@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Everyone
 ## Hello World
 
 - Class Date: July 10 - July 11, 2025
