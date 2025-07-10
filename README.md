@@ -1,4 +1,5 @@
 # GitHub for Developers
+## Hello World
 
 - Class Date: July 10 - July 11, 2025
 - Facilitator: @Randy Pagels
